@@ -12,7 +12,7 @@
     "class-variance-authority": "^0.7.1",
     "fumadocs-core": "^15.8.1",
     "fumadocs-mdx": "^12.0.1",
-    "fumadocs-openapi": "^9.5.1",
+    "fumadocs-openapi": "^10.5.0",
     "fumadocs-ui": "^15.8.1",
     "lucide-react": "^0.542.0",
     "mermaid": "^11.10.1",
